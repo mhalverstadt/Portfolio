@@ -151,10 +151,11 @@ input, textarea {
 		gap: 50px;
 	}
 
-	.me  {
-		flex-grow: 0;
-		
-	}
+
+    .aboutMeSections{
+        width: 100px;
+        display: inline-block;
+    }
 
 
 /* Row */
