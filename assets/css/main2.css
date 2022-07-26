@@ -59,7 +59,7 @@ input, textarea {
 		}
 
 	body, input, textarea {
-		color: #a2a2a2;
+		color: #8b8b8b;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
@@ -446,7 +446,7 @@ input, textarea {
 
 		}
 
-		@media screen and (max-width: 480px) {
+		@media screen and (max-width: 500px) {
 
 			.row {
 				display: flex;
