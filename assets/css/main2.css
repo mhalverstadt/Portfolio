@@ -144,18 +144,22 @@ input, textarea {
 	}
 
 /* The About Me Flex */
-	.aboutMe {
+	#aboutMe {
 		display: flex;
-		flex-direction: row;
+		flex-flow: row wrap;
 		justify-content: space-between;
 		gap: 50px;
 	}
 
 
     .aboutMeSections{
-        width: 100px;
-        display: inline-block;
+        flex-grow: 1;
     }
+
+	.me{
+		flex-grow: 2;
+		flex-basis: 50%;
+	}
 
 
 /* Row */
