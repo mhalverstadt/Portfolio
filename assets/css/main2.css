@@ -44,7 +44,7 @@ input, textarea {
 	}
 
 	body {
-		background: rgb(255, 255, 255);
+		background: black/*rgb(255, 255, 255);*/
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
