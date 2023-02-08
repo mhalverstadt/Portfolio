@@ -959,6 +959,11 @@ input, textarea {
 			width: 6.25em;
 		}
 
+/* SVGs */
+.svgs .icon{
+	max-width: 5em;
+}
+
 /* Footer */
 
 	#footer .icons {
